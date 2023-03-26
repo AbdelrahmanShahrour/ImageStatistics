@@ -1,0 +1,48 @@
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/problem 4
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/problem 4.deps.json
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/problem 4.runtimeconfig.json
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/problem 4.dll
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/problem 4.pdb
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/obj/Debug/net7.0/problem 4.csproj.AssemblyReference.cache
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/obj/Debug/net7.0/problem 4.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/obj/Debug/net7.0/problem 4.AssemblyInfoInputs.cache
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/obj/Debug/net7.0/problem 4.AssemblyInfo.cs
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/obj/Debug/net7.0/problem 4.csproj.CoreCompileInputs.cache
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/obj/Debug/net7.0/problem 4.dll
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/obj/Debug/net7.0/refint/problem 4.dll
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/obj/Debug/net7.0/problem 4.pdb
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/obj/Debug/net7.0/problem 4.genruntimeconfig.cache
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/obj/Debug/net7.0/ref/problem 4.dll
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/AForge.dll
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/AForge.Imaging.dll
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/AForge.Math.dll
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/obj/Debug/net7.0/problem 4.csproj.CopyComplete
+/home/abdalrahman/Desktop/ProgressSoft/problem 4/bin/Debug/net7.0/SixLabors.ImageSharp.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/problem 4
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/problem 4.deps.json
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/problem 4.runtimeconfig.json
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/problem 4.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/problem 4.pdb
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/AForge.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/AForge.Imaging.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/AForge.Math.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/SixLabors.ImageSharp.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/obj/Debug/net7.0/problem 4.csproj.AssemblyReference.cache
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/obj/Debug/net7.0/problem 4.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/obj/Debug/net7.0/problem 4.AssemblyInfoInputs.cache
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/obj/Debug/net7.0/problem 4.AssemblyInfo.cs
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/obj/Debug/net7.0/problem 4.csproj.CoreCompileInputs.cache
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/obj/Debug/net7.0/problem 4.csproj.CopyComplete
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/obj/Debug/net7.0/problem 4.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/obj/Debug/net7.0/refint/problem 4.dll
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/obj/Debug/net7.0/problem 4.pdb
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/obj/Debug/net7.0/problem 4.genruntimeconfig.cache
+/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/obj/Debug/net7.0/ref/problem 4.dll

@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "dgSpecHash": "C0J94RVuqIJTOj8BIth3Fs6Wjg/taxbyMLkpHceS29tvBLgv35JJompx1xesZ5JaMSSAVmkVWWFlH74prK+8Mw==",
+  "success": true,
+  "projectFilePath": "/home/abdalrahman/Desktop/ProgressSoft/(Problem #4) Image Statistics/problem 4.csproj",
+  "expectedPackageFiles": [
+    "/home/abdalrahman/.nuget/packages/aforge/2.2.5/aforge.2.2.5.nupkg.sha512",
+    "/home/abdalrahman/.nuget/packages/aforge.imaging/2.2.5/aforge.imaging.2.2.5.nupkg.sha512",
+    "/home/abdalrahman/.nuget/packages/aforge.math/2.2.5/aforge.math.2.2.5.nupkg.sha512",
+    "/home/abdalrahman/.nuget/packages/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "/home/abdalrahman/.nuget/packages/sixlabors.imagesharp/1.0.0-rc0001/sixlabors.imagesharp.1.0.0-rc0001.nupkg.sha512",
+    "/home/abdalrahman/.nuget/packages/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "problem 4 depends on SixLabors.ImageSharp (>= 1.0.0-beta2) but SixLabors.ImageSharp 1.0.0-beta2 was not found. An approximate best match of SixLabors.ImageSharp 1.0.0-rc0001 was resolved.",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AForge 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AForge",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AForge.Imaging 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AForge.Imaging",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AForge.Math 2.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AForge.Math",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
